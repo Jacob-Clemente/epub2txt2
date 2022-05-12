@@ -1,0 +1,5 @@
+project: jacob-clemente/epub2txt2
+target: epub2txt
+
+cmds:
+  - cmd: /epub2txt @@
